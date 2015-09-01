@@ -1,0 +1,24 @@
+---
+layout:     course-single-column
+title:      Student Work
+subtitle:   
+---
+
+
+
+
+<h2>Student Projects (in progress)</h2>
+<h3>This page under development</h3>
+
+<ul class="large-block-grid-5 medium-block-grid-3 small-block-grid-1">
+{% for student in site.data.students %}
+	<li>
+		<div>
+			<h5>{{ student.groupName }}</h5>
+
+			<iframe class="th" allowtransparency="true" width="200" height="200" src="{{student.projectUrl}}?autostart=false" frameborder="0" allowfullscreen></iframe><br>
+		<small><a href="{{ student.projectUrl }}">Open in a new window</a></small>
+	</li>
+{% endfor %}
+
+</ul>

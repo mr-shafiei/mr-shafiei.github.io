@@ -1,0 +1,21 @@
+---
+layout:     home
+title:      Mr. Shafiei
+---
+
+
+
+
+
+
+
+{% assign number_of_courses = site.data.courses | size %}
+
+
+<ul class="large-block-grid-{{number_of_courses}} small-block-grid-1">
+{% for course in site.data.courses %}
+
+<li><a href="{{ course.url }}" class="button">{{ course.title }}</a></li>
+
+{% endfor %}
+</ul>

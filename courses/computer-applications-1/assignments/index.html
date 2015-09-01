@@ -1,0 +1,33 @@
+---
+layout:     course-single-column
+title:      Assignments
+subtitle:   The stuff you need to do
+course-name:    computer-applications-1
+post-types:     assignments
+---
+
+<!-- Show most recent assignment -->
+<ul class="small-block-grid-1 medium-block-grid-1 large-block-grid-1">
+    {% for post in site.categories[page.course-name] limit:1 %}
+
+        {% if post.categories contains page.post-types %}
+  <li>
+    <div class="panel callout">
+        <h3><a href="{{site.baseurl}}{{ post.url }}">{{post.title}}</a></h3>
+        <h6><small>Posted on: {{post.date | date: "%b %d, %Y" }}</small></h6>
+        <p class="right label alert" id="due-date">Due Date: {{post.due-date | date: "%b %d, %Y"}}</p>
+    </div></li>
+    {% endif %}
+    {% endfor %}
+    {% for post in site.categories[page.course-name] %}
+    {% if post.categories contains page.post-types %}
+  <li>
+    <div class="panel">
+        <h3><a href="{{site.baseurl}}{{ post.url }}">{{post.title}}</a></h3>
+        <h6><small>Posted on: {{post.date | date: "%b %d, %Y" }}</small></h6>
+        <p>{{ post.subtitle }}
+        <p class="right label alert" id="due-date">Due Date: {{post.due-date | date: "%b %d, %Y"}}</p>
+    </div></li>
+    {% endif %}
+    {% endfor %}
+</ul>

@@ -1,0 +1,56 @@
+---
+layout:     course-single-column
+title:      Schedule
+subtitle:   The stuff you need to do
+course-name:    computer-applications-2
+post-types:     calendar
+---
+
+<!-- Show most recent assignment -->
+
+{% for post in site.categories[page.course-name] %}
+    {% if post.categories contains page.post-types %}
+<div class="panel">
+<div class="row">
+    <div class="large-3 small-12 columns">
+        <h2>{{post.title}}</h2>
+        <h3>{{post.subtitle}}</h3>
+    </div>
+    <div class="large-1 hide-for-small columns">
+    </div>
+    <div class="large-8 small-12 columns">
+        {{post.content}}
+    </div>
+</div>
+</div>
+{% endif %}
+{% endfor %}
+
+
+
+
+
+
+<ul class="small-block-grid-1 medium-block-grid-1 large-block-grid-1">
+    {% for post in site.categories[page.course-name] limit:1 %}
+
+        {% if post.categories contains page.post-types %}
+  <li>
+    <div class="panel callout">
+        <h3><a href="{{site.baseurl}}{{ post.url }}">{{post.title}}</a></h3>
+        <h6><small>Posted on: {{post.date | date: "%b %d, %Y" }}</small></h6>
+        <p class="right label alert" id="due-date">Due Date: {{post.due-date | date: "%b %d, %Y"}}</p>
+    </div></li>
+    {% endif %}
+    {% endfor %}
+    {% for post in site.categories[page.course-name] %}
+    {% if post.categories contains page.post-types %}
+  <li>
+    <div class="panel">
+        <h3><a href="{{site.baseurl}}{{ post.url }}">{{post.title}}</a></h3>
+        <h6><small>Posted on: {{post.date | date: "%b %d, %Y" }}</small></h6>
+        <p class="right label alert" id="due-date">Due Date: {{post.due-date | date: "%b %d, %Y"}}</p>
+    </div></li>
+    {% endif %}
+    {% endfor %}
+</ul>

@@ -1,0 +1,26 @@
+---
+layout:   assignment
+title:    Dropbox Lab
+due-date: 2014-08-29
+---
+
+## Purpose ##
+
+Dropbox is one of many cloud services designed to make storage and sharing of files simple.
+
+We will use Dropbox in this class to store our files.
+
+## Goal ##
+
+Demonstrate an understanding of Dropbox features including:
+
+* Folder creation
+* The difference between "sharing" and "inviting"
+* File uploading
+
+in order to create your e-portfolio.
+
+
+## Instructions ##
+
+I will conduct a demo of the key features and setup of Dropbox and you will take notes.  These notes will become part of your reference guide from which you will work in pairs using the "pair-programming" technique.

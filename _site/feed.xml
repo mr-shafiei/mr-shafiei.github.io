@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <description></description>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+<<<<<<< HEAD
+    <pubDate>Mon, 27 Apr 2015 12:36:18 -0400</pubDate>
+    <lastBuildDate>Mon, 27 Apr 2015 12:36:18 -0400</lastBuildDate>
+=======
+    <pubDate>Sun, 08 Feb 2015 15:24:31 -0500</pubDate>
+    <lastBuildDate>Sun, 08 Feb 2015 15:24:31 -0500</lastBuildDate>
+>>>>>>> origin/master
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Week 10</title>
+        <description>&lt;h2 id=&quot;portfolio-presentations&quot;&gt;Portfolio Presentations&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;1/2 Day on Friday (10/31)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;last-week-to-turn-in-revisions&quot;&gt;Last week to turn in revisions&lt;/h3&gt;
+</description>
+        <pubDate>Mon, 27 Oct 2014 00:00:00 -0400</pubDate>
+        <link>/courses/computer-applications-1/calendar/2014/10/27/week-10/</link>
+        <guid isPermaLink="true">/courses/computer-applications-1/calendar/2014/10/27/week-10/</guid>
+        
+        
+        <category>courses</category>
+        
+        <category>computer-applications-1</category>
+        
+        <category>calendar</category>
+        
+      </item>
+    
+      <item>
+        <title>Week 9</title>
+        <description>&lt;h1 id=&quot;last-project-work-week!!&quot;&gt;Last Project Work Week!!&lt;/h1&gt;
+
+&lt;h2 id=&quot;topics&quot;&gt;Topics&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Assembling your portfolio and portfolio presentation&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;items-due&quot;&gt;Items Due&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Design Journal&lt;/li&gt;
+&lt;li&gt;Product Test&lt;/li&gt;
+&lt;li&gt;Final Project&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 20 Oct 2014 00:00:00 -0400</pubDate>
+        <link>/courses/computer-applications-1/calendar/2014/10/20/week-9/</link>
+        <guid isPermaLink="true">/courses/computer-applications-1/calendar/2014/10/20/week-9/</guid>
+        
+        
+        <category>courses</category>
+        
+        <category>computer-applications-1</category>
+        
+        <category>calendar</category>
+        
+      </item>
+    
+      <item>
+        <title>Week 8</title>
+        <description>&lt;h1 id=&quot;project-work-week&quot;&gt;Project Work Week&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;No School on Monday (10/13)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;items-due&quot;&gt;Items Due&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Design Journal&lt;/li&gt;
+&lt;li&gt;Product Test&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 13 Oct 2014 00:00:00 -0400</pubDate>
+        <link>/courses/computer-applications-1/calendar/2014/10/13/week-8/</link>
+        <guid isPermaLink="true">/courses/computer-applications-1/calendar/2014/10/13/week-8/</guid>
+        
+        
+        <category>courses</category>
+        
+        <category>computer-applications-1</category>
+        
+        <category>calendar</category>
+        
+      </item>
+    
+      <item>
+        <title>Week 7</title>
+        <description>&lt;h1 id=&quot;project-work-week&quot;&gt;Project Work Week&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;No School on Friday (10/10)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;items-due&quot;&gt;Items Due&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Design Journal&lt;/li&gt;
+&lt;li&gt;Product Test&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 06 Oct 2014 00:00:00 -0400</pubDate>
+        <link>/courses/computer-applications-1/calendar/2014/10/06/week-7/</link>
+        <guid isPermaLink="true">/courses/computer-applications-1/calendar/2014/10/06/week-7/</guid>
+        
+        
+        <category>courses</category>
+        
+        <category>computer-applications-1</category>
+        
+        <category>calendar</category>
+        
+      </item>
+    
+      <item>
+        <title>Design Project Goals</title>
+        <description>&lt;h2 id=&quot;overview&quot;&gt;Overview&lt;/h2&gt;
+
+&lt;p&gt;At this point in your project, you most likely have a functional game/app.  Congratulations!&lt;/p&gt;
+
+&lt;p&gt;Designers and developers often have to work with deadlines and make sacrifices about what features they would like to have and what they can realistically get accomplished in the time they have.&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;h2 id=&quot;process&quot;&gt;Process&lt;/h2&gt;
+
+&lt;p&gt;I would like for you to create two goals for your project.  These will be your requirements for earning different grades:&lt;/p&gt;
+
+&lt;h4 id=&quot;goal-1:-minimum-goal&quot;&gt;Goal 1:  Minimum Goal&lt;/h4&gt;
+
+&lt;p&gt;What features are absolutely necessary for your game/app to be functional?&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;This will be your requirement to earn a &amp;quot;B&amp;quot; on the project&lt;/em&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;goal-2:-high-target-goal&quot;&gt;Goal 2:  High Target Goal&lt;/h4&gt;
+
+&lt;p&gt;What features would be nice or cool to have?&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;This will be your requirement to earn an &amp;quot;A&amp;quot; on the project&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Please note, these goals are subject to my approval and revisions!&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;h2 id=&quot;submitting-your-assignment&quot;&gt;Submitting Your Assignment&lt;/h2&gt;
+
+&lt;p&gt;Please turn this in on Dropbox or Basecamp.  If you really want to do it on paper, you may.&lt;/p&gt;
+
+&lt;p&gt;Be sure to include:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Names of group members&lt;/li&gt;
+&lt;li&gt;Class period&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 03 Oct 2014 00:00:00 -0400</pubDate>
+        <link>/courses/computer-applications-1/assignments/2014/10/03/Design-Goals/</link>
+        <guid isPermaLink="true">/courses/computer-applications-1/assignments/2014/10/03/Design-Goals/</guid>
+        
+        
+        <category>courses</category>
+        
+        <category>computer-applications-1</category>
+        
+        <category>assignments</category>
+        
+      </item>
+    
+      <item>
+        <title>Week 6</title>
+        <description>&lt;h1 id=&quot;project-work-week&quot;&gt;Project Work Week&lt;/h1&gt;
+
+&lt;h1 id=&quot;anet-testing-week&quot;&gt;ANET Testing Week&lt;/h1&gt;
+
+&lt;h2 id=&quot;topics&quot;&gt;Topics&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Testing your app and providing feedback&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;items-due&quot;&gt;Items Due&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Design Journal&lt;/li&gt;
+&lt;li&gt;Product Test&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 29 Sep 2014 00:00:00 -0400</pubDate>
+        <link>/courses/computer-applications-1/calendar/2014/09/29/week-6/</link>
+        <guid isPermaLink="true">/courses/computer-applications-1/calendar/2014/09/29/week-6/</guid>
+        
+        
+        <category>courses</category>
+        
+        <category>computer-applications-1</category>
+        
+        <category>calendar</category>
+        
+      </item>
+    
+      <item>
+        <title>Week 5</title>
+        <description>&lt;h1 id=&quot;project-work-week&quot;&gt;Project Work Week&lt;/h1&gt;
+
+&lt;h2 id=&quot;topics&quot;&gt;Topics&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Conditional Statements and Logic&lt;/li&gt;
+&lt;li&gt;Design Journal&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;items-due&quot;&gt;Items Due&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Design Journal&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 22 Sep 2014 00:00:00 -0400</pubDate>
+        <link>/courses/computer-applications-1/calendar/2014/09/22/week-5/</link>
+        <guid isPermaLink="true">/courses/computer-applications-1/calendar/2014/09/22/week-5/</guid>
+        
+        
+        <category>courses</category>
+        
+        <category>computer-applications-1</category>
+        
+        <category>calendar</category>
+        
+      </item>
+    
+      <item>
+        <title>Design Project</title>
+        <description>&lt;table&gt;
+  &lt;tr&gt;
+    &lt;th&gt;GRASPS&lt;/th&gt;
+    &lt;th&gt;&lt;/th&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;Goals&lt;/td&gt;
+    &lt;td&gt;- Demonstrate your understanding of basic computer programming by creating a game or other interactive application.&lt;br&gt;- Demonstrate your understanding of various computer applications.&lt;br&gt;- Apply a design and revision process to your work.&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;Role&lt;/td&gt;
+    &lt;td&gt;You are a developer&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;Audience&lt;/td&gt;
+    &lt;td&gt;The internet&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;Situation&lt;/td&gt;
+    &lt;td&gt;You are a designer with an idea for a new product (or a modification to an existing one).  &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;Product(s)&lt;/td&gt;
+    &lt;td&gt;Scratch application with documentation&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;Standard(s)&lt;/td&gt;
+    &lt;td&gt;- CTE-4:  Use existing and emerging technology, to investigate, research, and produce products and services,including new information, as required in the Information and Communication Technologies sectorworkplace environment.&lt;br&gt;&lt;br&gt;- C4.3:  Identify and use different authoring tools and integrated development environments&lt;br&gt;(IDEs).&lt;br&gt;&lt;br&gt;- CCSS.ELA-LITERACY.RST.9-10.3-Follow precisely a complex multistep procedure when carrying out experiments, taking measurements, or performing technical tasks, attending to special cases or exceptions defined in the text.&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;hr&gt;
+
+&lt;h1 id=&quot;design-journal&quot;&gt;Design Journal&lt;/h1&gt;
+
+&lt;p&gt;Purpose:  To reflect upon your progress and process and plan ahead.&lt;/p&gt;
+
+&lt;h2 id=&quot;due-dates:&quot;&gt;Due Dates:&lt;/h2&gt;
+
+&lt;p&gt;9/26&lt;br&gt;
+10/3&lt;br&gt;
+10/9&lt;br&gt;
+10/17&lt;br&gt;
+10/24&lt;/p&gt;
+
+&lt;h1 id=&quot;basecamp&quot;&gt;Basecamp&lt;/h1&gt;
+
+&lt;p&gt;Basecamp is a tool that allows you and your team to collaborate and track tasks.&lt;/p&gt;
+
+&lt;p&gt;You will get a weekly grade on your team&amp;#39;s usage of this!&lt;/p&gt;
+
+&lt;h1 id=&quot;testing/sharing&quot;&gt;Testing/Sharing&lt;/h1&gt;
+
+&lt;p&gt;One big part of the process is testing your app and evaluating how your users respond.&lt;/p&gt;
+
+&lt;p&gt;We will do this several times:&lt;/p&gt;
+
+&lt;p&gt;10/3&lt;br&gt;
+10/9&lt;br&gt;
+10/17&lt;/p&gt;
+
+&lt;h1 id=&quot;documentation&quot;&gt;Documentation&lt;/h1&gt;
+
+&lt;p&gt;The final part of this process will be providing documentation to your user about how your app should be used.&lt;/p&gt;
+
+&lt;p&gt;While most of this will be written, I encourage you to explore alternate ways that you can signal to your user how they should interact.&lt;/p&gt;
+
+&lt;p&gt;Lastly, your app should be complete with a description and credits (including credits for any digital media you used including picture, sounds, videos or code).&lt;/p&gt;
+</description>
+        <pubDate>Thu, 18 Sep 2014 00:00:00 -0400</pubDate>
+        <link>/courses/computer-applications-1/assignments/2014/09/18/Scratch-GRASPS/</link>
+        <guid isPermaLink="true">/courses/computer-applications-1/assignments/2014/09/18/Scratch-GRASPS/</guid>
+        
+        
+        <category>courses</category>
+        
+        <category>computer-applications-1</category>
+        
+        <category>assignments</category>
+        
+      </item>
+    
+      <item>
+        <title>Design Project - Product Pitch</title>
+        <description>&lt;h2 id=&quot;goals&quot;&gt;Goals&lt;/h2&gt;
+
+&lt;p&gt;Your task is to work collaboratively to create a pitch for the game/app/product that you are going to develop with Scratch.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Su tarea es trabajar en colaboración para crear un terreno de juego para el juego / app / producto que se va a desarrollar con los arañazos.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;instructions&quot;&gt;Instructions&lt;/h2&gt;
+
+&lt;p&gt;Answer the following questions in your pitch.  You may do this using whatever tool you prefer (word document, presentation, video, etc).&lt;/p&gt;
+
+&lt;h3 id=&quot;questions&quot;&gt;Questions&lt;/h3&gt;
+
+&lt;ol&gt;
+&lt;li&gt;What is the product your team is going to build?&lt;/li&gt;
+&lt;li&gt;What is its name and primary function?&lt;/li&gt;
+&lt;li&gt;Who is the target audience?&lt;/li&gt;
+&lt;li&gt;Why is this the product you want to build?&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr&gt;
+
+&lt;p&gt;&lt;em&gt;En Español&lt;/em&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;¿Cuál es el producto de su equipo va a construir? &lt;/li&gt;
+&lt;li&gt;¿Cuál es su nombre y su función principal? &lt;/li&gt;
+&lt;li&gt;¿Quién es el público objetivo? &lt;/li&gt;
+&lt;li&gt;¿Por qué es este el producto que desea construir?&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr&gt;
+
+&lt;h2 id=&quot;submission&quot;&gt;Submission&lt;/h2&gt;
+
+&lt;p&gt;Please put this inside of your Dropbox folder!  Make sure to put all team member&amp;#39;s names on it!&lt;/p&gt;
+</description>
+        <pubDate>Thu, 18 Sep 2014 00:00:00 -0400</pubDate>
+        <link>/courses/computer-applications-1/assignments/2014/09/18/Product-Pitch/</link>
+        <guid isPermaLink="true">/courses/computer-applications-1/assignments/2014/09/18/Product-Pitch/</guid>
+        
+        
+        <category>courses</category>
+        
+        <category>computer-applications-1</category>
+        
+        <category>assignments</category>
+        
+      </item>
+    
+      <item>
+        <title>Scratch Lab 2</title>
+        <description>&lt;div class=&quot;panel&quot;&gt;
+&lt;p&gt;Remember to join Scratch first if you haven&#39;t!&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;goals&quot;&gt;Goals&lt;/h2&gt;
+
+&lt;p&gt;Apply your knowledge of functions in order to create an algorithm to draws shapes.&lt;/p&gt;
+
+&lt;p&gt;Struggle through a problem, then review the solution as a class.&lt;/p&gt;
+
+&lt;h2 id=&quot;vocabulary&quot;&gt;Vocabulary&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Function&lt;/li&gt;
+&lt;li&gt;Variable&lt;/li&gt;
+&lt;li&gt;Algorithm&lt;/li&gt;
+&lt;li&gt;Abstraction&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;instructions&quot;&gt;Instructions&lt;/h2&gt;
+
+&lt;p&gt;Given during class&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;h2 id=&quot;link-to-lab&quot;&gt;Link to Lab&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://scratch.mit.edu/projects/26817991/#editor&quot;&gt;Link to Lab&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 17 Sep 2014 00:00:00 -0400</pubDate>
+        <link>/courses/computer-applications-1/assignments/2014/09/17/Scratch-Lab-2/</link>
+        <guid isPermaLink="true">/courses/computer-applications-1/assignments/2014/09/17/Scratch-Lab-2/</guid>
+        
+        
+        <category>courses</category>
+        
+        <category>computer-applications-1</category>
+        
+        <category>assignments</category>
+        
+      </item>
+    
+  </channel>
+</rss>

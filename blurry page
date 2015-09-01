@@ -1,0 +1,31 @@
+<style>
+.hero {
+  position: relative;
+  width: 100%;
+  padding: 2em 0;
+  overflow: hidden;
+  min-height:300px;
+}
+  .hero__background {
+    position: absolute;
+    top: -50%;
+    left: 0;
+    width: 200%;
+
+    -webkit-filter: blur(20px);
+    -webkit-transform: translate3d(0, 0, 0);
+  }
+
+  .hero__title {
+    position: relative;
+    text-align: center;
+    font-size: 5em;
+    color: white;
+  }
+
+  </style>
+
+<div class="hero">
+  <img class="hero__background" src="{{site.baseurl}}/img/analogcomputer.jpg">
+  <h1 class="hero__title">Image Blur</h1>
+</div>

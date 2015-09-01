@@ -1,0 +1,21 @@
+name: "Mr. Shafiei's Classes"
+redcarpet:
+    extensions: ["hard_wrap", "no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data", "strikethrough", "superscript"]
+markdown_ext: markdown,mkdown,mkdn,mkd,md
+highlighter: pygments
+baseurl:  
+permalink: pretty
+kramdown:
+    input: GFM
+
+markdown:    redcarpet
+highlighter: pygments
+lsi:         false
+excerpt_separator: "\n\n"
+
+defaults:
+  -
+    scope:
+      path: "" # empty string for all files
+    values:
+      layout: "course-single-column"
